@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Steaks</string>
+    <string name="Menu">Menu</string>
+    <string name="Pedidos">Pedidos</string>
+    <string name="Perfil">Perfil</string>
+    <string name="hoy">Hoy</string>
+    <string name="desayunos">Desayunos</string>
+    <string name="almuerzos">Almuerzos</string>
+    <string name="cenas">Cenas</string>
+    <string name="complementos">Complementos</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="titulo">Titulo</string>
+    <string name="todo">TODO</string>
+    <string name="descripcion">Descripcion</string>
+    <string name="_150_00">150.00</string>
+    <string name="ItemTitle">ItemTitle</string>
+    <string name="enviar_orden">Enviar Orden</string>
+    <string name="_0_00">0.00</string>
+    <string name="mas">+</string>
+    <string name="menos">-</string>
+    <string name="_1">1</string>
+    <string name="estado_pendiente">Estado : Pendiente</string>
+    <string name="title_activity_login">LoginActivity</string>
+
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="ciudad">Ciudad</string>
+    <string name="delivery">Delivery</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+
+</resources>

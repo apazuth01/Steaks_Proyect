@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="app_name">Steaks</string>
+    <string name="Menu">Menu</string>
+    <string name="Pedidos">Pedidos</string>
+    <string name="Perfil">Perfil</string>
+    <string name="hoy">Hoy</string>
+    <string name="desayunos">Desayunos</string>
+    <string name="almuerzos">Almuerzos</string>
+    <string name="cenas">Cenas</string>
+    <string name="complementos">Complementos</string>
+
+    <string name="titulo">Titulo</string>
+    <string name="todo">TODO</string>
+    <string name="descripcion">Descripcion</string>
+    <string name="delivery">Delivery</string>
+
+
+</resources>
